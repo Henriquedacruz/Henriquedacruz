@@ -8,12 +8,6 @@
   ![Henriquedacruz](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Henriquedacruz](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
- <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Henriquedacruz&show_icons=true&theme=aura_dark" style="max-width:100%;">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedacruz&layout=compact&theme=aura_dark" style="max-width:100%;">
-</div>
-  
 <div align="center">
   <h3>🎮🕹Social midias🕹🎮</h3>
   <p>
