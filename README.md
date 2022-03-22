@@ -9,6 +9,12 @@
   ![Henriquedacruz](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <div align="center">
+  
+   <div align="center">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Henriquedacruz&show_icons=true&theme=aura_dark" style="max-width:100%;">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedacruz&layout=compact&theme=aura_dark" style="max-width:100%;">
+</div>
+ 
   <h3>🎮🕹Social midias🕹🎮</h3>
   <p>
   <a target="_blank" href="https://www.linkedin.com/in/antonio-henrique-silva-da-cruz-a6a943206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
