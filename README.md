@@ -20,10 +20,11 @@
   </a>
  </a>
    </p> 
+ </div>
  
  ![snake gif](https://github.com/Henriquedacruz/Henriquedacruz/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+
 
 <div align="center">
      <img widht="130em" height="130em" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif">
