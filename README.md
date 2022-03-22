@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world! i'm Henrique &nbsp;
+  <p></p>
   
   ![Henriquedacruz](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![Henriquedacruz](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
