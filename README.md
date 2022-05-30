@@ -12,7 +12,7 @@
   
    <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Henriquedacruz&show_icons=true&theme=aura_dark" style="max-width:100%;">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedacruz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedacruz&layout=compact&theme=aura_dark" style="max-width:100%;">
 </div>
  
   <h3>🎮🕹Social midias🕹🎮</h3>
